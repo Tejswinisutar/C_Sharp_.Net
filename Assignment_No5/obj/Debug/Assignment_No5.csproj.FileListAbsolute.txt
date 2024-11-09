@@ -1,0 +1,10 @@
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.csproj.AssemblyReference.cache
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.frm_Emplyee_Details.resources
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.Properties.Resources.resources
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.csproj.GenerateResource.cache
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.csproj.CoreCompileInputs.cache
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\bin\Debug\Assignment_No5.exe.config
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\bin\Debug\Assignment_No5.exe
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\bin\Debug\Assignment_No5.pdb
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.exe
+C:\Users\uthal\OneDrive\Documents\Teju\Teju .net\Assignment_No5\obj\Debug\Assignment_No5.pdb
